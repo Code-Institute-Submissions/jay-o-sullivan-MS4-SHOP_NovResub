@@ -1,0 +1,1 @@
+web: gunicorn MS4_SHOP.wsgi:application
